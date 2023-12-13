@@ -9,5 +9,5 @@ matplotlib
 sentence-transformers
 torch
 torchvision
-pretrainedmodels
+pretrainedmodels==0.7.4
 tqdm
